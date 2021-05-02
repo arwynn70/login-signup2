@@ -1,0 +1,14 @@
+
+Understanding Flexbox
+
+Parent = Flex Container	   --->   	Children = Flex Items
+
+Property				Propery
+
+	display: flex;			order:
+	flex-flow:				flex:
+	justify-content:			align-self:
+	align-items:
+     
+
+
